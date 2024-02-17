@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15) 
      
 
-set(PROJECT_NAME NewRes2)     
+set(PROJECT_NAME Res2)     
 project("${PROJECT_NAME}")
 
 
@@ -10,4 +10,4 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
 
 
-add_executable("${PROJECT_NAME}" лабораторная 2.cpp)
+add_executable("${PROJECT_NAME}" laba2.cpp)
