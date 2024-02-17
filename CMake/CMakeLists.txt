@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15) 
      
 
-set(PROJECT_NAME Res2)     
+set(PROJECT_NAME laba-2.0)     
 project("${PROJECT_NAME}")
 
 
